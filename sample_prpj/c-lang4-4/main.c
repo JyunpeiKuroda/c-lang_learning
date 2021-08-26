@@ -6,6 +6,6 @@ void main() {
     do {
         printf("%d ", i);
         i++;
-    } while (i <= 5);
+    } while (i <= 5);    //  ˆ—‚ðŽÀs‚µ‚Ä‚©‚çðŒŽ®‚É“ü‚é
     printf("\n");
 }
